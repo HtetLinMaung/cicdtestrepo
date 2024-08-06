@@ -6,3 +6,4 @@ test_job:
   script:
     - echo "Running simple tests..."
     - echo "Tests completed!"
+    - echo "Hello Emm"
